@@ -1,2 +1,2 @@
 <?php php info(); ?>
-<?="Teste";?>
+Olá!
